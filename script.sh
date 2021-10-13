@@ -1,1 +1,3 @@
 sh 'printenv'
+
+echo "test"
